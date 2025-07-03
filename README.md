@@ -17,4 +17,4 @@ A simple **console-based Java application** to track income and expenses. Built 
 1. Open the project folder in **VS Code** or any IDE
 2. Compile the Java file:
    ```bash
-   javac ExpenseTracker.java
+   javac Expense_Tracker.java
